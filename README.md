@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [News Homepage](https://github.com/garyeung/frontendmentor_news-homepage)
-)
+
 - Live Site URL: [News Homepage live site](https://garyeung.github.io/frontendmentor_news-homepage)
 
 ## My process
